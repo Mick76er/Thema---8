@@ -1,0 +1,9 @@
+ol li {
+    text-decoration: underline;
+}
+.misha {
+    text-decoration: none;
+}
+ol li:hover {
+    color: red;
+}
